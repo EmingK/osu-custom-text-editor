@@ -1,0 +1,1 @@
+C:\Dev\emacs\bin\emacsclientw.exe -na C:\Dev\emacs\bin\runemacs.exe -c
